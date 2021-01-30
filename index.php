@@ -12,7 +12,7 @@
         },1000)
     })
     </script>
-</head>
+
     <title>Document</title>
 </head>
 <body>
